@@ -11,9 +11,9 @@ KTFE (Kotani Thermal Facial Emotion) database: 2,538 thermal images of
 26 people, 7 classes (Anger, Disgust, Fear, Happy, Sad, Surprise, Neutral).
 Created by Nguyen et al. Not created by me and **not included in this repo**.
  
-H. Nguyen, F. Chen, K. Kotani, and B. Le, "Fusion of visible images and
+[H. Nguyen, F. Chen, K. Kotani, and B. Le, "Fusion of visible images and
 thermal image sequences for automated facial emotion estimation,"
-*Journal of Mobile Multimedia*, vol. 10, no. 3-4, pp. 294-308, 2014.
+*Journal of Mobile Multimedia*, vol. 10, no. 3-4, pp. 294-308, 2014.]
 
 ## Notebooks
 | File | Model |
