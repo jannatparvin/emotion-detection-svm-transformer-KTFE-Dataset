@@ -9,7 +9,7 @@ This was done during a research internship at NIT Rourkela under the supervision
 ## Dataset
 KTFE (Kotani Thermal Facial Emotion) database: 2,538 thermal images of
 26 people, 7 classes (Anger, Disgust, Fear, Happy, Sad, Surprise, Neutral).
-Created by Nguyen et al. Not created by me and **not included in this repo**.
+Created by Nguyen et al. **Not included in this repo**.
  
 [H. Nguyen, F. Chen, K. Kotani, and B. Le, "Fusion of visible images and
 thermal image sequences for automated facial emotion estimation,"
