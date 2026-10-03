@@ -44,6 +44,8 @@ thermal image sequences for automated facial emotion estimation,"
 | SVM | 97.83% | 0.98 | 508 |
 | ViT-B/16 | 98.82% | 0.9891 | 254 |
 
+![ViT confusion matrix](ktfe_svm_confusion_matrix)
+
 Fear, Happy and Neutral were among the best-classified classes by both models
 (Fear had the lowest ViT recall at 0.9535, with 2 misclassified samples).
 
